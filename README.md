@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio of Efe Yemez
+Data science projects of Efe Yemez.
