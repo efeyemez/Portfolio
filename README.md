@@ -1,2 +1,2 @@
 # <center>Data Science portfolio of Efe Yemez.</center><br>
-Projects have been categorized by their primary focus on the data analysis life-cycle, however all projects include implementations from several phases of data pipeline.
+Projects have been categorized by their primary focus on the data analysis life-cycle, however, all projects include implementations from several phases of the data pipeline.
